@@ -1,6 +1,5 @@
 # **CV** Lorick blanc-lué
-
-![LB.](lb.PNG "LB.")
+![LB.](avatar.png "LB.")
 
 ## **FORMATION**
 
